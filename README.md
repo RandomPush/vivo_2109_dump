@@ -1,0 +1,14 @@
+# full_k69v1_64-user 12 SP1A.210812.003 compiler12091555 release-keys
+- manufacturer: vivo
+- platform: mt6768
+- codename: 2109
+- flavor: full_k69v1_64-user
+- release: 12
+- id: SP1A.210812.003
+- incremental: compiler12091555
+- tags: release-keys
+- fingerprint: vivo/2109_EEA/2109:12/SP1A.210812.003/compiler12091555:user/release-keys
+- is_ab: false
+- brand: vivo
+- branch: full_k69v1_64-user-12-SP1A.210812.003-compiler12091555-release-keys
+- repo: vivo_2109_dump
