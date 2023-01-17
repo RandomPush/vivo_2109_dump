@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<boolean name="infrared_near_support">true</boolean>
+	<boolean name="leds_support">false</boolean>
+	<boolean name="fm_support">true</boolean>
+	<boolean name="light_sensor_leak">true</boolean>
+	<boolean name="gyroscope_support">true</boolean>
+	<boolean name="dpdt_test">true</boolean>
+	<boolean name="flash_light_cali_support">true</boolean>
+	<boolean name="smart_spearker_amplifier_cali_support">false</boolean>
+	<boolean name="speaker_resdetect_support">true</boolean>
+	<boolean name="diag_socket">true</boolean>
+	<boolean name="support_5g">true</boolean>
+	<boolean name="sub_echo_support">true</boolean>
+	<boolean name="multi_mic_echo_support">true</boolean>
+	<boolean name="sidekey_test">true</boolean>
+	<boolean name="light_sensor_angle">true</boolean>
+	<boolean name="laser_VL53L3_support">false</boolean>
+	<boolean name="hifi_support">false</boolean>
+	<boolean name="front_camera_under_screen">true</boolean>
+	<boolean name="rear_main_wide_tele_unsupport">false</boolean>
+	<boolean name="sim_test_support">true</boolean>
+	<boolean name="reduce_sar_test">true</boolean>
+	<boolean name="parallel_main_sub_mic_test">true</boolean>
+	<string  name="camera_type">back[Master,RTBOnly,Macro]front[Master]</string>
+	<boolean name="rear_main_wide_virt_unsupport">false</boolean>
+	<boolean name="tf_btb_support">true</boolean>
+	<boolean name="btb_slot">TF,SIM1,SIM2</boolean>
+</resources>

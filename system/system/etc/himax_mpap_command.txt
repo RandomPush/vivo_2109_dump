@@ -1,0 +1,13 @@
+raw_log_file:/sdcard/#
+node_path:/proc/android_touch/#
+broadcast_type:String#
+broadcast_val:pass,0;fail,1#
+broadcast_action:android.intent.action.himax#
+broadcast_name:testResult#
+retry_times:100#
+fail_page_delay:4000#
+pass_page_delay:1000#
+save_rawdata:Y#
+show_in_result:N#
+node_command:
+self_test#
