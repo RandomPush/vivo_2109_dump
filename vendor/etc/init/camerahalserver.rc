@@ -1,0 +1,9 @@
+service camerahalserver /vendor/bin/hw/camerahalserver ASAN_OPTIONS=abort_on_error=1
+    class main
+    user cameraserver
+    group audio camera input drmrpc sdcard_rw system media graphics
+    ioprio rt 4
+    capabilities SYS_NICE
+    task_profiles MaxPerformance ProcessCapacityMax
+    writepid /dev/cpuset/camera-daemon/tasks /dev/stune/top-app/tasks
+
